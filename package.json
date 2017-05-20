@@ -1,0 +1,11 @@
+{
+  "name": "css_in_depth",
+  "version": "1.0.0",
+  "description": "Book exercises",
+  "main": "index.js",
+  "author": "crasmussen",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.1.1"
+  }
+}
